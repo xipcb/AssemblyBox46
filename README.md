@@ -1,6 +1,6 @@
 # AssemblyBox46
 
-![pictures](render.png)
+![Main](pictures/render.jpg)
 
 ### OVERVIEW:
 
@@ -10,4 +10,4 @@ This project is for helping stage component while assembly designs.
 ### BOX IDs:
 
 
-![pictures](boxes.png)
+![Main](pictures/boxes.jpg)
