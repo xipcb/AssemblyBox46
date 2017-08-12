@@ -4,7 +4,7 @@
 
 ### OVERVIEW:
 
-This project is for helping stage component while assembly designs.
+This project is for helping stage components while assemblying designs.
 
 
 ### BOX IDs:
